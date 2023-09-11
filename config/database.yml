@@ -23,8 +23,8 @@ default: &default
 
 development:
   <<: *default
-  database: budget-app
-  user: postgres
+  database: budget-buddy
+  username: postgres
   password: Dealsanha
 
   # The specified database role being used to connect to postgres.
@@ -59,8 +59,8 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: budget-app-tests
-  user: postgres
+  database: budget-buddy-test
+  username: postgres
   password: Dealsanha
 
 # As with config/credentials.yml, you never want to store sensitive information,
