@@ -71,5 +71,8 @@ group :test do
   gem 'webdrivers'
 end
 
+gem 'devise'
 gem 'rails-controller-testing'
 gem 'rspec-rails'
+gem 'rubocop', '>= 1.0', '< 2.0'
+gem 'tailwindcss-rails'
