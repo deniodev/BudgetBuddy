@@ -18,6 +18,22 @@ class ItemsController < ApplicationController
     redirect_to category_path(@category)
   end
 
+  def edit
+    @item = Item.find(params[:id])
+    @category = @item.categories.first
+  end
+
+  def update
+    @item = Item.find(params[:id])
+
+    flash[:notice] = if @item.update(items_params)
+                       'Updated successfully'
+                     else
+                       'Failed to update!'
+                     end
+    redirect_to category_path(@item.categories.first)
+  end
+
   def destroy
     @item = Item.find(params[:id])
     @category = @item.categories.first
