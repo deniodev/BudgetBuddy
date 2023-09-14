@@ -6,6 +6,16 @@ class Category < ApplicationRecord
 
   validates :name, :icon, presence: true
 
+  ICONS = {
+    'fa-house-user' => 'Housing',
+    'fa-bus' => 'Transportation',
+    'fa-utensils' => 'Food',
+    'fa-lightbulb' => 'Utilities',
+    'fa-hand-holding-heart' => 'Insurance',
+    'fa-suitcase-medical' => 'Medical',
+    'fa-piggy-bank' => 'Saving'
+  }.freeze
+
   def total_amount
     items.sum(:amount)
   end
