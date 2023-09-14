@@ -22,6 +22,10 @@ module.exports = {
     require("daisyui"),
   ],
 
+   // daisyui: {
+  //   themes: ["lemonade"],
+  //   // darkTheme: "dark",
+  // }
   daisyui: {
     themes: [
       {
