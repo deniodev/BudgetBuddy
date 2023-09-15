@@ -114,7 +114,7 @@ rspec
 
 ### Deployment
 
-  - The website is deployed [here]()
+  - The website is deployed [here](https://budget-buddy-yniy.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +125,7 @@ rspec
 👤 **Denio Nhanale**
  
 - GitHub: [@githubhandle](https://github.com/deniodev)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephen-katuli/)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/denionhanale)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +167,7 @@ If you like this project please show support by staring ⭐️.
 
 ## Presentation <a name="presentation"></a>
 
-* [video]() presentation.
+* [video](https://www.loom.com/share/Budget-Body-Web-App-Presentation-2def64cc00ed494ba3b785f0693beef6?sid=788bbade-d5f7-40db-886c-7c060c8ff33e) presentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
