@@ -27,6 +27,13 @@
 
   </div>
 
+  <div class="bg-white p-5 w-full">
+    <div class="flex justify-between px-2">
+      <p class="text-xl font-bold">Total Amount:</p>
+      <p class="text-xl font-bold"><%= "$#{@category.total_amount}" %></p>
+    </div>
+  </div>
+
   <ul class="flex flex-col gap-2 w-full items-center text-accent p-2  bg-neutral-focus">
 
     <% @items.each do |item| %>
