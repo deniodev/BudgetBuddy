@@ -167,7 +167,7 @@ If you like this project please show support by staring ⭐️.
 
 ## Presentation <a name="presentation"></a>
 
-* [video](https://www.loom.com/share/Budget-Body-Web-App-Presentation-2def64cc00ed494ba3b785f0693beef6?sid=788bbade-d5f7-40db-886c-7c060c8ff33e) presentation.
+* [video](https://www.loom.com/share/Budget-Buddy-Web-App-Presentation-f8255e0f34824136babc3caed1aade38?sid=15571058-2deb-44c0-8118-12f07f2281e0) presentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
