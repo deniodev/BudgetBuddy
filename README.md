@@ -125,7 +125,7 @@ rspec
 👤 **Denio Nhanale**
  
 - GitHub: [@githubhandle](https://github.com/deniodev)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/denionhanale)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/denionhanale)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
