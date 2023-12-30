@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Budget-Buddy] <a name="about-project"></a>
+# 📖 Budget-Buddy <a name="about-project"></a>
 
-**[Budget-Buddy]** is a mobile web application that allows you to efficiently manage your budget. You'll have a list of transactions associated with various categories, enabling you to track your expenses and see how much money you've spent and on what.
+**Budget-Buddy** is a mobile web application that allows you to efficiently manage your budget. You'll have a list of transactions associated with various categories, enabling you to track your expenses and see how much money you've spent and on what.
 
 ## 🛠 Built With <a name="built-with"></a>
 
