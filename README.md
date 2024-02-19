@@ -114,7 +114,7 @@ rspec
 
 ### Deployment
 
-  - The website is deployed [here]()
+  - The website is deployed [here](https://budget-buddy-avl7.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +125,7 @@ rspec
 👤 **Denio Nhanale**
  
 - GitHub: [@githubhandle](https://github.com/deniodev)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephen-katuli/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/denionhanale/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
