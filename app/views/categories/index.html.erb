@@ -1,9 +1,9 @@
 <div class="w-full text-accent h-full flex flex-col justify-between bg-neutral-focus">
-  <div class="flex flex-col px-3 bg-primary py-5 h-28 justify-between">
+  <div class="flex flex-col px-3 bg-primary py-5 h-18 justify-between">
 
    <div class="text-white flex justify-between px-4 text-xl items-center">
-  <i class="fa-solid fa-hand-holding-dollar"></i>
-  <h1 class="text-2xl">CATEGORIES</h1>
+  <i class="fa-solid fa-sack-dollar"> </i>
+  <h1 class="text-2xl font-bold">Budget Buddy</h1>
   <% if user_signed_in? %> 
     <%= button_to destroy_user_session_path, method: :delete, class: "text-error font-bold" do %>
       <i class="fa-solid fa-right-from-bracket"></i>

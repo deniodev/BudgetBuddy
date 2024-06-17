@@ -1,10 +1,10 @@
 <div class="w-full text-accent h-screen flex flex-col justify-between  bg-neutral-focus">
  
-  <div class="bg-primary p-5 mb-4 w-full flex flex-col gap-2">
+  <div class="bg-primary p-5 mb-4 w-full flex flex-col gap-2 h-18">
 
     <div class="text-white flex justify-between px-2 text-xl gap-1 items-center">
       <%= link_to raw('<i class="fa-sharp fa-solid fa-angle-left"></i>'), categories_path %>
-      <h1 class="text-2xl"> TRANSACTIONS </h1>
+      <h1 class="text-2xl font-bold"> Transactions </h1>
       <i class="fa-solid fa-magnifying-glass"></i>
     </div>
 
@@ -17,12 +17,6 @@
         <%= link_to raw('<i class="fa-sharp fa-solid fa-pen-to-square"></i>'), edit_category_path(@category), class: "text-secondary" %>
         <%= button_to raw('<i class="fa-sharp fa-solid fa-trash"></i>'), category_path(@category), method: :delete, class: "text-red-700" %>
       </div>
-
-      <div class="flex gap-4">
-        <p class="">Most Recent</p>
-        <p> Most Ancient </p>
-      </div>
-
     </div>
 
   </div>
