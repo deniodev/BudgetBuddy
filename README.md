@@ -1,4 +1,5 @@
 # Budget Buddy
+![Untitled design](https://github.com/deniodev/BudgetBuddy/assets/92977776/4d872b41-330f-4772-93c4-10173bc77685)
 
 <a name="readme-top"></a>
 
